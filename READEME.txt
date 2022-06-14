@@ -1,0 +1,1 @@
+A simple keylogger which can be used in both operating systems windows and Linux
